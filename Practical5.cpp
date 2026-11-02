@@ -31,12 +31,4 @@ cout << "Sum of two floats: " << c.add(2.5f, 3.5f) << endl;
 
 return 0;
 }
-
-
-
-
-
-
-
-  
 }
